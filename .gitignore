@@ -1,0 +1,11 @@
+train/
+test/
+valid/
+runs/
+models/
+*.weights
+*.pt
+*.onnx
+*.engine
+__pycache__/
+*.pyc

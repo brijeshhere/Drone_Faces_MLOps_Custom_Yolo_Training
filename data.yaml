@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['face']
+
+roboflow:
+  workspace: face-detection-and-recognition-dataset
+  project: droneface
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/face-detection-and-recognition-dataset/droneface/dataset/8
