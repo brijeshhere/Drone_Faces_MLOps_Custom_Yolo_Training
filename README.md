@@ -1,4 +1,4 @@
-# Drone Face Detection with YOLO and MLOps Integration
+# Drone Face Detection Training And Improves YOLO and MLOps Integration
 
 This project implements a drone face detection system using YOLO (You Only Look Once) object detection with MLOps practices integrated through MLflow.
 
